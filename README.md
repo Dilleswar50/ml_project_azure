@@ -1,2 +1,2 @@
 # ml_project_azure
-Deploying Azure Web App Using Azure Container Registry
+Deploying in Azure Web App Using Azure Container Registry
